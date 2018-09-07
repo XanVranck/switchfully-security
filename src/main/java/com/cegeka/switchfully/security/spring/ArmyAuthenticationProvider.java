@@ -1,5 +1,6 @@
 package com.cegeka.switchfully.security.spring;
 
+import com.cegeka.switchfully.security.authorization.Feature;
 import com.cegeka.switchfully.security.external.authentication.ExternalAuthenticaton;
 import com.cegeka.switchfully.security.external.authentication.FakeAuthenticationService;
 import org.springframework.beans.factory.annotation.Autowired;
